@@ -1,0 +1,153 @@
+Unit Converters
+1. Currency Convertor
+2. Distance Convertor
+3. Time Convertor
+4. Exit
+
+Enter Your Choice
+1
+
+Currency Converter
+1. Dollar to Ind
+2. Euro to Ind
+3. Yen to Ind
+4. Ind to Dollar
+5. Ind to Euro
+6. Ind to Yen
+7.Exit
+
+Enter Your Choice
+1
+
+Enter in DOLLAR
+3
+3.0 DOLLAR is equal to 223.041 INR
+
+Currency Converter
+1. Dollar to Ind
+2. Euro to Ind
+3. Yen to Ind
+4. Ind to Dollar
+5. Ind to Euro
+6. Ind to Yen
+7.Exit
+
+Enter Your Choice
+4
+
+Enter in INR
+300
+300.0 INR is equal to 4.0 DOLLORS
+
+Currency Converter
+1. Dollar to Ind
+2. Euro to Ind
+3. Yen to Ind
+4. Ind to Dollar
+5. Ind to Euro
+6. Ind to Yen
+7.Exit
+
+Enter Your Choice
+7
+
+Unit Converters
+1. Currentcy Convertor
+2. Distance Convertor
+3. Time Convertor
+4. Exit
+
+Enter Your Choice
+2
+
+Distance Converter
+1. METER to KILOMETER
+2. MILES to KILOMETER
+3. KILOMETER to METER
+4. KILOMETER to MILES
+5.Exit
+
+Enter Your Choice
+1
+
+Enter Meters Reading:
+700
+700.0 Meters is equal to 0.7Kilometer
+
+Distance Converter
+1. METER to KILOMETER
+2. MILES to KILOMETER
+3. KILOMETER to METER
+4. KILOMETER to MILES
+5.Exit
+
+Enter Your Choice
+3
+
+Enter in KILOMETER
+4
+4.0 KILOMETER is equal to 4000.0 METER
+
+Distance Converter
+1. METER to KILOMETER
+2. MILES to KILOMETER
+3. KILOMETER to METER
+4. KILOMETER to MILES
+5.Exit
+
+Enter Your Choice
+5
+
+Unit Converters
+1. Currentcy Convertor
+2. Distance Convertor
+3. Time Convertor
+4. Exit
+
+Enter Your Choice
+3
+
+Time Converter
+1. Hours to Minutes
+2. Hours to Seconds
+3. Minutes to Hours
+4. Seconds to Hours
+5.Exit
+
+Enter Your Choice
+1
+
+Enter in HOURS
+9
+9.0 Hours is equal to 540.0 Minutes
+
+Time Converter
+1. Hours to Minutes
+2. Hours to Seconds
+3. Minutes to Hours
+4. Seconds to Hours
+5.Exit
+
+Enter Your Choice
+4
+Enter in SECONDS
+1200
+1200.0 Seconds is equal to 0.3333333333333333 Hours
+
+Time Converter
+1. Hours to Minutes
+2. Hours to Seconds
+3. Minutes to Hours
+4. Seconds to Hours
+5.Exit
+
+Enter Your Choice
+5
+Unit Converters
+1. Currentcy Convertor
+2. Distance Convertor
+3. Time Convertor
+4. Exit
+
+Enter Your Choice
+4
